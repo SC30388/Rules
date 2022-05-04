@@ -1,3 +1,8 @@
+# > Chromecast with Google TV
+PROCESS-NAME,com.google.android.videos
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+// DOMAIN-KEYWORD,pa.google
+
 # > Crunchyroll
 USER-AGENT,Crunchyroll*
 DOMAIN-SUFFIX,crunchyroll.com
