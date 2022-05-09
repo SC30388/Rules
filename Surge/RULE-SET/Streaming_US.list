@@ -12,6 +12,11 @@ DOMAIN,uts-api.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,tv.applemusic.com
 
+# > Chromecast with Google TV Home
+PROCESS-NAME,com.google.android.videos
+DOMAIN,androidtvlauncherxfe-pa.googleapis.com
+# DOMAIN-KEYWORD,pa.google
+
 # > Crunchyroll
 # USER-AGENT,Crunchyroll*
 DOMAIN-SUFFIX,crunchyroll.com
