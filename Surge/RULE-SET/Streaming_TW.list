@@ -46,6 +46,9 @@ IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,159.138.102.146/32,no-resolve
 
+# > iFlix
+DOMAIN-SUFFIX,iflix.com
+
 # > KKBOX
 # USER-AGENT,*KKBOX
 DOMAIN-SUFFIX,kkbox.com
@@ -74,3 +77,19 @@ DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-SUFFIX,catch.net.tw
 DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
 DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
+
+# > WeTV
+# USER-AGENT,WeTV*
+PROCESS-NAME,com.tencent.qqlivei18n
+# PROCESS-NAME,com.tencent.qqlivei18n.us
+PROCESS-NAME,com.ktcp.osvideo
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com  
+DOMAIN,wetv.tv.qq.com
+DOMAIN,wetv.acc.qq.com
+DOMAIN,hwvip.video.qq.com
+# DOMAIN,oth.eve.mdt.qq.com
+# DOMAIN,oth.str.mdt.qq.com
+# DOMAIN-SUFFIX,meovse.com
+IP-CIDR,150.109.28.51/32,no-resolve
+# IP-CIDR,203.205.136.0/23,no-resolve
